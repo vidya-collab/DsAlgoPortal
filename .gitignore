@@ -1,1 +1,6 @@
 /target/
+.settings/org.eclipse.jdt.apt.core.prefs
+allure-results/
+logs/
+src/test/resources/
+test-output/
